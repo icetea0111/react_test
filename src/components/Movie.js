@@ -1,6 +1,6 @@
 import React from "react";
 import propTypes from "prop-types";
-import "./static/Movie.css";
+import "./Movie.css";
 
 function Component(e) {
   if ( e.length > 280 ) {
